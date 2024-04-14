@@ -1,5 +1,5 @@
 # 2_task
-Реализован метод сегментации изображения с помощью активных контуров.
+Реализован метод сегментации изображения с помощью активных контуров. </br>
 %programname% astranaut.png astranaut_init_snake.txt astranaut_result.png 1.0512 0.794317 13.1391 0.12291 1.830796 0.008869 </br>
 %programname% coffee.png coffee_init_snake.txt coffee_result.png 0.1718 0.6104 7.5026745 -0.0426 0.84513426 -0.007388</br>
 %programname% coins.png coins_init_snake.txt coins_result.png 1.6754 1.03446 13.1825 -0.05211 1.123 -0.0335 </br>
